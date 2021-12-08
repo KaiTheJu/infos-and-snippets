@@ -52,7 +52,7 @@ def wurzelApprox(x, eps):
 
 
 print(f"Die Anzahl Paare von 10 Punkten der Ebene beträgt {anzahlPaare(10)}.")
-print(f"Die Anzahl Matrix-Elemente auf oder oberhalb der Diagonalen beträgt für eine 20x20 Matrix {anzahlPaare(20)+20} \n")
+print(f"Die Anzahl Matrix-Elemente auf oder oberhalb der Diagonalen beträgt für eine 20x20 Matrix {anzahlPaare(20)} \n")
 
 import math as m
 A = [[m.e, m.pi],[m.e+m.pi, m.e*m.pi]]
